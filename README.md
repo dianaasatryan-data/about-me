@@ -71,19 +71,4 @@
 
 ---
 
-<h3 align="left">Let's Connect</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dianaasatryan/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&label=LinkedIn" 
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://github.com/dianaasatryan-data" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&label=GitHub" 
-      alt="GitHub"
-    />
-  </a>
-</p>
-
+<h3 align="left">Let's Connect</h3> <p align="left"> <a href="https://www.linkedin.com/in/dianaasatryan/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/dianaasatryan-data" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
