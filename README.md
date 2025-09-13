@@ -61,12 +61,12 @@
 
 
 
-## 🎓 Education
+## Education
 - **MSc in Economics, Major in Data Analytics & Data Science** – American University of Armenia  
 - **BSc in Finance** – Armenian State University of Economics  
 
 --
 
-## 🌐 Let's Connect
+## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianaasatryan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dianaasatryan-data)
