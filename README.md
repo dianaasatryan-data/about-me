@@ -1,3 +1,13 @@
+<h1 align="center">Hi there! I'm Diana</h1>
+
+<p align="center">
+  <a href="https://github.com/dianaasatryan-data?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="Browse All Repositories" 
+         src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 <h3>Technical Skills</h3>
 
 <h4>Programming & Scripting</h4>
@@ -57,4 +67,16 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<h3>Let's Connect</h3>
+<p>
+  <a href="https://www.linkedin.com/in/dianaasatryan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dianaasatryan-data">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
