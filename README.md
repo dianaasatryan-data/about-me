@@ -8,10 +8,11 @@
 
 <p align="left">
   <a href="https://github.com/dianaasatryan-data?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="Browse All Repositories" 
-         src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img alt="All Repositories" title="Explore Repositories" 
+         src="https://img.shields.io/badge/All%20Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 ## Technical Skills
 
