@@ -12,14 +12,14 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 🔹 Programming & Scripting
+### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu&logoColor=white)
 
-### 🔹 Databases & Querying
+### Databases & Querying
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -30,16 +30,16 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-### 🔹 ETL, Pipelines & Integration
+### ETL, Pipelines & Integration
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=white)
 
-### 🔹 Data Warehousing & Big Data
+### Data Warehousing & Big Data
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-### 🔹 Business Intelligence & Visualization
+### Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-000000?style=flat&logo=apache&logoColor=white)
@@ -50,11 +50,11 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![STATA](https://img.shields.io/badge/Stata-1E90FF?style=flat&logo=stata&logoColor=white)
 
-### 🔹 Cloud Platforms
+### Cloud Platforms
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
-### 🔹 Project & Team Management
+### Project & Team Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
