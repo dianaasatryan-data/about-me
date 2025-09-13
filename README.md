@@ -1,11 +1,5 @@
 # 👋 Hi there! I'm Diana
 
-## 🚀 Top Data Projects
-[![Business Intelligence Dashboards](https://github-readme-stats.vercel.app/api/pin/?username=dianaasatryan-data&repo=BI-Dashboards&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dianaasatryan-data/BI-Dashboards)
-[![Clinical Data Analytics](https://github-readme-stats.vercel.app/api/pin/?username=dianaasatryan-data&repo=Clinical-Data-Analytics&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dianaasatryan-data/Clinical-Data-Analytics)
-[![E-commerce Funnel Analysis](https://github-readme-stats.vercel.app/api/pin/?username=dianaasatryan-data&repo=Ecom-Funnel-Analysis&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dianaasatryan-data/Ecom-Funnel-Analysis)
-[![ETL & Data Engineering Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=dianaasatryan-data&repo=ETL-Pipelines&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dianaasatryan-data/ETL-Pipelines)
-
 <p align="left">
   <a href="https://github.com/dianaasatryan-data?tab=repositories" target="_blank">
     <img alt="All Repositories" title="Browse All Repositories" 
@@ -60,11 +54,6 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-
-## Education
-- **MSc in Economics, Major in Data Analytics & Data Science** – American University of Armenia  
-- **BSc in Finance** – Armenian State University of Economics  
 
 
 ## Let's Connect
