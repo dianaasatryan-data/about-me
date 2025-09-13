@@ -10,7 +10,7 @@
   <a href="https://github.com/dianaasatryan-data?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
----
+--
 
 ## Technical Skills
 
@@ -60,13 +60,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
----
+--
 
 ## 🎓 Education
 - **MSc in Economics, Major in Data Analytics & Data Science** – American University of Armenia  
 - **BSc in Finance** – Armenian State University of Economics  
 
----
+--
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianaasatryan/)
