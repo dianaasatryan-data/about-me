@@ -1,9 +1,9 @@
-<h1 align="center">Hi there! I'm Diana</h1>
+<h2 align="center">Hi there, I'm Diana 👋</h2>
 
 <p align="center">
   <a href="https://github.com/dianaasatryan-data?tab=repositories" target="_blank">
     <img alt="All Repositories" title="Browse All Repositories" 
-         src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+         src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
