@@ -7,10 +7,11 @@
 [![ETL & Data Engineering Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=dianaasatryan-data&repo=ETL-Pipelines&border_color=ffffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dianaasatryan-data/ETL-Pipelines)
 
 <p align="left">
-  <a href="https://github.com/dianaasatryan-data?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/dianaasatryan-data?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="View All Repositories" 
+         src="https://img.shields.io/badge/🔍%20All%20Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-
 
 ## Technical Skills
 
