@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Diana</h1>
+<h1 align="center">Hi there! I'm Diana</h1>
 
 <p align="center">
   <a href="https://github.com/dianaasatryan-data?tab=repositories" target="_blank">
@@ -9,16 +9,16 @@
 
 ---
 
-<h2>⚙️ Technical Skills</h2>
+<h3>Technical Skills</h3>
 
-<h3>🔹 Programming & Scripting</h3>
+<h4>Programming & Scripting</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu&logoColor=white"/>
 </p>
 
-<h3>🔹 Databases & Querying</h3>
+<h4>Databases & Querying</h4>
 <p>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
@@ -31,25 +31,25 @@
   <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
-<h3>🔹 ETL, Pipelines & Integration</h3>
+<h4>ETL, Pipelines & Integration</h4>
 <p>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=white"/>
 </p>
 
-<h3>🔹 Data Warehousing & Big Data</h3>
+<h4>Data Warehousing & Big Data</h4>
 <p>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/>
 </p>
 
-<h3>🔹 Business Intelligence & Visualization</h3>
+<h4>Business Intelligence & Visualization</h4>
 <p>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/QuickSight-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Superset-000000?style=flat&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white"/>  
   <br>
   <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4E89AE?style=flat&logo=python&logoColor=white"/>
@@ -58,13 +58,13 @@
   <img src="https://img.shields.io/badge/Stata-1E90FF?style=flat&logo=stata&logoColor=white"/>
 </p>
 
-<h3>🔹 Cloud Platforms</h3>
+<h4>Cloud Platforms</h4>
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<h3>🔹 Project & Team Management</h3>
+<h4>Project & Team Management</h4>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/>
@@ -73,7 +73,7 @@
 
 ---
 
-<h2>🌐 Let's Connect</h2>
+<h3>Let's Connect</h3>
 <p>
   <a href="https://www.linkedin.com/in/dianaasatryan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
