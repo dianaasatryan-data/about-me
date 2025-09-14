@@ -10,13 +10,6 @@
 ---
 <h3>Technical Skills</h3>
 
-<h4>Programming & Scripting</h4>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu&logoColor=white"/>
-</p>
-
 <h4>Databases & Querying</h4>
 <p>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white"/>
@@ -54,6 +47,13 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stata-1E90FF?style=flat&logo=stata&logoColor=white"/>
+</p>
+
+<h4>Programming & Scripting</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu&logoColor=white"/>
 </p>
 
 <h4>Cloud Platforms</h4>
